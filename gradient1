@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>⠀</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            background-image: linear-gradient(to right, #FF5353 0%, #FF5353 40%, #FFBC01 60%, #FFBC01 100%);
+        }
+    </style>
+</head>
+<body>
+</body>
+</html>
